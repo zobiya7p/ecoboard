@@ -1,0 +1,10 @@
+[theme]
+base = "light"
+primaryColor = "#113825"            # deep forest green (buttons, focus rings)
+backgroundColor = "#F4F6F5"         # soft off-white app background
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#14261C"
+font = "sans serif"                 # Plus Jakarta Sans is loaded by the injected CSS
+
+[client]
+toolbarMode = "minimal"
